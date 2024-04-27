@@ -12,7 +12,7 @@ shop_name =  input("What do you want to name your coffee shop? ")
 print("\nThanks " + name + "! Let's set some initial pricing.\n")
 
 #Get initial price of a cup of coffee
-cup_price = float(input("How much do you want to charge for a cup of coffee? "))
+cup_price = input("How much do you want to charge for a cup of coffee? ")
 
 #Display what we have so far
 print("\nGreat! Here is what we have so far:\n")
